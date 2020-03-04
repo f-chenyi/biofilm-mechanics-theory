@@ -1,0 +1,6 @@
+Agar conc. = 0.7 %
+
+Black circle tracks biofilm radius.
+Blue circle tracks the outer edge of the radial pattern.
+Red circle tracks the outer edge of the zigzag pattern.
+White circle tracks the inoculation core.

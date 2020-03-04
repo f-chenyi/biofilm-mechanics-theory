@@ -1,0 +1,8 @@
+The data are given by following vectors:
+- tAll: experimental time (h)
+- Rout: biofilm radius (um)
+- Aout: outer radius of the radial pattern (um)
+- Sout: outer radius of the zigzag pattern (um)
+- Ain: inner radius of the radial pattern / inoculation core radius (um)
+
+Only non-zero components have physical meanings.

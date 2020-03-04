@@ -1,0 +1,4 @@
+Data for the velocity profiles shown in main Fig. 2D. For each time point, the .mat file includes:
+- r: radial distance from the biofilm center (um)
+- v_avg: mean of the circumferentially averaged radial velocities (um/min)
+- v_std: std of the circumferentially averaged radial velocities (um/min)

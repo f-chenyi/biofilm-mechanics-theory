@@ -1,0 +1,5 @@
+Agar conc. = 0.7 %
+
+demo_piv.avi shows the processing of PIVLab. Cyan (orange) arrows denote local velocity field with high (low) inference confidence.
+
+demo_velocity_profile.avi shows an example of the circumferentially averaged velocity profile over time.

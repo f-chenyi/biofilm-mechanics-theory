@@ -1,0 +1,4 @@
+
+angle summary.xlsx includes the raw measurements of the biofilm leading angles (3 biological replicates and 5+ technical replicates), where we directly measured the slope (colored in green).
+
+scaled_friction.mat includes the mean (ksi_avg) and std (ksi_std) of the scaled friction.

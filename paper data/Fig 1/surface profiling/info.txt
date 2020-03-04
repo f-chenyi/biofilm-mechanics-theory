@@ -1,0 +1,5 @@
+The data are given by following vectors:
+- dr1 = horizontal distance along a line profiling
+- z   = height of the biofilm surface
+
+At the edge, z yields the information about the biofilm leading angle and thickness. Inside the patterned region, z yields the information about the wavelength of the pattern.
