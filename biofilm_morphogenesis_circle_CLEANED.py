@@ -322,7 +322,6 @@ for ksi_val in ksi_list:
             fileinfo = open(directorymain+"info_"+str(trial)+".txt",'w')
 
             fileinfo.write(debug_text+'\n' + '\n')
-            fileinfo.write('Initial guess A: ' + str(amp_guess) + 'Initial guess S: ' + str(sp_guess) + 'critial strain: ' + str(Eps_c.my_Nc) + 'Residual growth: ' + str(kr.my_kr) + 'friction ksi: ' + str(ksi.my_ksi) + '\n' + 'uptake Q0: ' + str(Q0.my_Q0) + '\n' + 'diffusion Dn: ' + str(Dn.my_Dn) + '\n' +'chalf: ' + str(chalf) + '\n' + 'growing ring ac: ' + str(0.5) + '\n' + 'dt_of: ' + str(dt_of) + '\n' +  'T total: ' + str(t) + '\n')
             fileinfo.close()
             # ====================================================================== #
             
@@ -330,7 +329,7 @@ for ksi_val in ksi_list:
             # ====================================================================== #
             print("Initializing......")
             u_init = InitialConditions(degree = 0)
-            u.interpolate(u_init
+            u.interpolate(u_init)
             # ====================================================================== #
             
             
